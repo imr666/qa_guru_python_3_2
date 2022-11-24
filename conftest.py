@@ -1,5 +1,6 @@
 import random
- import pytest
+import pytest
+
 
 
  @pytest.fixture(scope="session")
